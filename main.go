@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	x := 12321
+	x := 1123211
 	fmt.Println(isPalindrome(x))
 }
